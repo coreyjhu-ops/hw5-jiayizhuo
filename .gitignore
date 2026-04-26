@@ -1,6 +1,19 @@
+# Generated reports and local outputs
 *_report.html
+
+# Python caches
 __pycache__/
-*.pyc
-.DS_Store
+*.py[cod]
+
+# Local environment files
+.env
+.env.*
+!.env.example
 .venv/
 venv/
+
+# Local credentials and OS files
+GitHub_token.rtf
+*token*
+*secret*
+.DS_Store

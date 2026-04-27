@@ -2,7 +2,7 @@
 
 A reusable AI skill for Week 5: Build a Reusable AI Skill. It turns a US-listed stock ticker into a self-contained HTML fundamental analysis report using live Yahoo Finance data through `yfinance`.
 
-Demo Video: TODO - replace with final video link before Canvas submission.
+Demo Video: https://youtu.be/piid1MhRoIs
 
 ## What The Skill Does
 
